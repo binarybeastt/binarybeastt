@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @binarybeastt
+- 👋 Hi, I’m Bolarinwa Ismail
 - 👀 I’m interested in Machine Learning Engineering
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning projects
